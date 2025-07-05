@@ -11,6 +11,6 @@
 * Beef Jerkey
 
 ## To Do
-[] Quit skippin' leg day
-[] More leg exercises
-[] Code stuffs
+- Quit skippin' leg day
+-  More leg exercises
+-  Code stuffs
