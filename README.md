@@ -3,3 +3,14 @@
 ## I'm learning to code
 
 ### ...because I can't go outside with this haircut
+
+## Things I Like
+* Eminem
+* Ladies
+* OneWheel
+* Beef Jerkey
+
+## To Do
+- Quit skippin' leg day
+-  More leg exercises
+-  Code stuffs
